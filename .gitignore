@@ -1,0 +1,6 @@
+.vscode
+*.bin
+__pycache__/
+run
+runq
+test*
